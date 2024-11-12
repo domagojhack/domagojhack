@@ -12,3 +12,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,py,docker,rust,blender,flask,godot,md,mongodb,nginx,npm,opencv,pytorch,r,tensorflow,vscode,linux,windows,apple&perline=5" />
   </a>
 </p>
+
+
+![domagojhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=domagojhack&show_icons=true&theme=radical&hide_rank=true)
