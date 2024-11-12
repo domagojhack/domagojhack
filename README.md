@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,docker,rust,blender,flask,godot,md,mongodb,nginx,npm,opencv,pytorch,r,raspberry,tensorflow,vscode,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,docker,rust,blender,flask,godot,md,mongodb,nginx,npm,opencv,pytorch,r,raspberry,tensorflow,vscode,linux,windows,apple&perline=5" />
   </a>
 </p>
